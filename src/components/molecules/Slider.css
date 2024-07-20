@@ -1,0 +1,20 @@
+.slider {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    box-shadow: 5px 5px 6px #dadada, -5px -5px 6px #f6f6f6;
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+  }
+
+  
+  
+  .slide {
+    flex: auto;
+    width: 100%;
+    max-width: 400px;
+    margin-right: 60px;
+    
+  }
+  

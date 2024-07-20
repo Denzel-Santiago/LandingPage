@@ -1,0 +1,32 @@
+.history-section {
+  padding: 30px;
+  width: 530px;
+  min-height: 370px;
+  border-radius: 20px;
+  background: #000000;
+  box-shadow: 5px 5px 6px #dadada, -5px -5px 6px #f6f6f6;
+  transition: 0.4s;
+  font-size: 18px;
+  font-weight: 500;
+  color: rgb(196, 175, 12);
+  translate: 0 -10px;
+  position: relative;
+  left: 300px;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente */
+  height: 90vh; 
+  }
+
+ 
+  
+  .quote {
+    font-style: italic;
+    margin-top: 10px;
+    
+  }
+
+ 
+
+  
+  
+  
