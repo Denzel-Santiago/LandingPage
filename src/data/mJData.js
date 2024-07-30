@@ -1,6 +1,6 @@
 const mJData = {
   artistImages: [
-    { src: 'Imagen_1.jpg', alt: 'Michael Jackson 1' },
+    { src: '/public/Imagen_1.jpg', alt: 'Michael Jackson 1' },
     { src: 'Imagen_2.jpg', alt: 'Michael Jackson 2' },
     { src: 'Imagen_3.jpg', alt: 'Michael Jackson 3' },
   ],
